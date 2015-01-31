@@ -1,0 +1,13 @@
+{
+  "name"        : "dynamic-inventory-viewer",
+  "version"     : "0.0.0",
+  "description" : "experiment to present the returned json in a friendly way",
+  "main"        : "server.js",
+  "author"      : "Eoin Smith",
+  "dependencies": {
+    "serve-static":  "1.7.1",
+    "connect": "3.3.2",
+    "http-server": "0.7.2",
+    "express": "4.10.1"
+  }
+}
